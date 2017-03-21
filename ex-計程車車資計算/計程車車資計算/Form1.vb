@@ -7,4 +7,8 @@
         intM = (Int((dblX - 1.25) / 0.25)) * 5 + 70
         TextBox2.Text = intM
     End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
